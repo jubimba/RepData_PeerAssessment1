@@ -2,7 +2,9 @@
 title: "Activity Monitoring Data Analysis"
 author: "Julia Fischer"
 date: "August 13, 2017"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ## Introduction
